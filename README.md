@@ -32,11 +32,7 @@ allprojects {
 }
 ```
 
-```gradle
-dependencies {
-	compile 'com.github.thealeksandr:PFLockScreen-Android:1.0.0-beta5'
-}
-```
+
 
 ## Create pin code
 
@@ -210,6 +206,3 @@ PFLockScreenHintTextStyle
 PFLockScreenTitleTextStyle
 ```
 
-The only important thing you can't change right now is the size of keys. But it's coming.
-
-**Feel free to ask questions add issues.** If I don't respond to an issue or PR, feel free to ping me or send me DM on twitter @thealeksandr. If you create issue it would be nice if you **subscribe** for updates. So we can discuss it.
