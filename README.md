@@ -1,4 +1,4 @@
-# PFLockScreen-Android
+# OVOockScreen-Android
 
 [![](https://jitpack.io/v/thealeksandr/PFLockScreen-Android.svg)](https://jitpack.io/#thealeksandr/PFLockScreen-Android)
 
